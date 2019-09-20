@@ -1,5 +1,7 @@
 # Rustwide
 
+![Rustwide](./rustwide.svg)
+
 Rustwide is a library to execute your code on the Rust ecosystem, powering
 projects like [Crater] and [docs.rs]. It features:
 
